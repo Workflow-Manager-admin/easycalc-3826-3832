@@ -4,6 +4,11 @@
   --text-color: #ffffff;
   --text-secondary: rgba(255, 255, 255, 0.7);
   --border-color: rgba(255, 255, 255, 0.1);
+  --calc-button-bg: #333333;
+  --calc-button-hover: #444444;
+  --calc-display-bg: #222222;
+  --calc-operator-bg: #FF8B4D;
+  --calc-operator-hover: #FF9D6A;
 }
 
 body {
